@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate developer based in UAE.</h3>
 
-- 🌱 I’m currently learning **firebase and react-django integration**
+- 🌱 I’m currently learning and implementing **react-django integration**(but in secret, and slow).
 
 - 👨‍💻 All of my projects are available at [https://shyam-portfolio-django.herokuapp.com/](https://shyam-portfolio-django.herokuapp.com/)
 
