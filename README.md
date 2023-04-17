@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate developer based in UAE.</h3>
 
-- 🌱 I’m currently learning and implementing **react-django flashcard app**.
+- 🌱 I’m currently learning learning **C++ (Qt), QML and Java (Android)**.
 
 - 👨‍💻 All of my projects are available at [https://shyam-portfolio-django.herokuapp.com/](https://shyam-portfolio-django.herokuapp.com/)
 
