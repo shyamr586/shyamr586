@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate developer based in UAE.</h3>
 
-- 🌱 I’m currently learning learning **C++ (Qt), QML and Java (Android)**.
+- 🌱 I’m currently working on **CV-Generator**.
 
-- 👨‍💻 All of my projects are available at [https://shyam-portfolio-django.herokuapp.com/](https://shyam-portfolio-django.herokuapp.com/)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **django, sql, react, vue, or python in general. (Feel free to ask me anything :) )**
 
 - 📫 How to reach me **v.shyamr586@gmail.com**
-
-- 📄 Know about my experiences [https://shyam-portfolio-django.herokuapp.com/static/firstapp/files/Resume.119738fcb22d.pdf](https://shyam-portfolio-django.herokuapp.com/static/firstapp/files/Resume.119738fcb22d.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
