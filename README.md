@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate developer based in UAE.</h3>
 
-- 🌱 I’m currently working on **CV-Generator**.
+- 🌱 I’m currently working on an **experience curator**.
 
 - 👨‍💻 All of my projects are available here
 
